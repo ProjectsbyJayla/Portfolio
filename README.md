@@ -15,7 +15,7 @@ A showcase of digital creativity and technical proficiency.
 
 ### 🌐 Static Resume Website
 A resume website built with HTML & CSS, hosted on GitHub Pages.  
-🔗 [Visit Site](https://projectsbyjayla.github.io/)
+🔗 [Visit Site](https://projectsbyjayla.github.io/Jaylas-projects/)
 
 ---
 
