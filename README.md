@@ -38,6 +38,6 @@ Lesson plans and materials from K–12 STEM programs and a cybersecurity teachin
 ---
 
 ## 📫 Contact
-- **Email:** [jaylabjohnson@gmail.com](mailto:jaylabjohnson@gmail.com)  
+- **Email:** [jaylabrejohnson@outlook.com](mailto:jaylabjohnson@gmail.com)  
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YOURNAME)  
 - **GitHub:** [ProjectsbyJayla](https://github.com/ProjectsbyJayla)  
